@@ -1,7 +1,6 @@
 # Hello-Microverse
 
-[Screen Shot 2022-02-08 at 10 47 02](https://user-images.githubusercontent.com/88894525/152952855-31d7b311-214b-484a-89de-2b3274846aab.png)
-
+![Screen Shot 2022-02-08 at 11 06 16](https://user-images.githubusercontent.com/88894525/152953758-84e5ed33-9af8-43a2-959e-d8f36d05b70f.png)
 
 > Description the project.
 
