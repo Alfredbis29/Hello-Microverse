@@ -14,9 +14,9 @@
 
 [Live Demo Link](https://alfredbis29.github.io/Hello-Microverse/)
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Alfred**
 
 - GitHub: [@githubhandle](https://github.com/Alfredbis29)
 - Twitter: [@twitterhandle](https://twitter.com/AlfredBisimwa1/header_photo)
