@@ -1,5 +1,7 @@
 # Hello-Microverse
 
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 ![Screen Shot 2022-02-08 at 11 06 16](https://user-images.githubusercontent.com/88894525/152954126-e533f874-0092-497e-83fb-d5cdf1dd2a08.png)
 
 > This project will be displaying Hello Microverse to the browser!
